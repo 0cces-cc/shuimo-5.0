@@ -4,7 +4,7 @@
 
 [中文](README.md) · [Ink Poster SKILL](skills/shuimo-ink-5.0/SKILL.md) · [Photo Graft SKILL](skills/shuimo-graft-5.0/SKILL.md) · [Archive](examples)
 
-The same photograph can become an entire ink painting, or grow together with one. This repository holds two complementary text-to-image Skills sharing one set of ink and mineral-gold standards.
+The same photograph can become a complete ink-poster painting, or extend into an ink painting while preserving the photograph's key elements. This repository holds two versions of a text-to-image Skill sharing one set of ink-generation standards.
 
 - **shuimo-ink-5.0 (Ink Poster)** — repaint the source as one complete modern-ink poster. The photograph supplies facts, relationships and character; the finished work is painting through and through, with no photographic regions retained.
 - **shuimo-graft-5.0 (Photo Graft)** — join the original photograph and newly painted ink into one work. A continuous real-photo anchor is preserved; a form from the photograph crosses the boundary, changes medium, and grows into an independently composed ink field.
@@ -22,7 +22,7 @@ Decide first; send the model only what this image needs:
 1. **Decisions before wording** — Ink Poster runs anchor → proposition → one authorial decision → expressive extension; Photo Graft fills an execution card locking the subject, zones P/T/I, the main exit and material placement. Missing facts stay "unknown", never invented.
 2. **Form first, material second, release last** (graft) — the interface is concrete: which form, through which edge, continuing in which direction. Direction, width, tonal weight and branching are preserved at the boundary; scaling, merging and tapering happen only deep inside the ink field.
 3. **Five-section short prompt** — target 500–900 Chinese characters; one fact stated once; only the mechanisms chosen for this image.
-4. **Single-variable correction** — locate the primary failure, replace only that section. Never append patches to the prompt tail; accumulating wording is how control is lost.
+4. **Single-variable correction** — locate the primary failure, replace only that section; never append patches to the prompt tail.
 
 ## Ink standards at a glance
 
